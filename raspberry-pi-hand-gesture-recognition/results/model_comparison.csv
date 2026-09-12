@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score
+SVM (RBF),0.9377,0.9450,0.9377,0.9364
+Random Forest,0.7724,0.8656,0.7724,0.7468
+MLP Neural Network,0.7480,0.8575,0.7480,0.7073
